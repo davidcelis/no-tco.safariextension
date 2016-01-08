@@ -4,7 +4,7 @@ no-tco is a Safari Extension that replaces all t.co links on [Twitter](https://t
 
 ## Installation
 
-Check out the available [releases](https://github.com/davidcelis/no-tco/releases) to download a .safariextz file that you can double-click to install.
+Check out the available [releases](https://github.com/davidcelis/no-tco.safariextension/releases) to download a .safariextz file that you can double-click to install.
 
 ## License
 
