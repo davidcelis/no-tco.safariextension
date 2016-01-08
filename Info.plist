@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>David Celis</string>
+	<key>Builder Version</key>
+	<string>11601.3.9</string>
+	<key>CFBundleDisplayName</key>
+	<string>no-tco</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.davidcelis.no-tco</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string></string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Replaces slow t.co links with their original URLs.</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Website</key>
+	<string>https://github.com/davidcelis/no-tco</string>
+</dict>
+</plist>
